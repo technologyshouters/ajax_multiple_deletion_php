@@ -1,0 +1,1 @@
+# ajax_multiple_deletion_php
